@@ -8,7 +8,7 @@ public class pruebaBanco {
 		System.out.printf("Escribe en pantalla un número: ", keyboard);
 		int numero = keyboard.nextInt();
 		boolean valors=true;
-		
+		 
 		while(valors) {
 			if (numero == 1) {
 				System.out.println("Gestores");
